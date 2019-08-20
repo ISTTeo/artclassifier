@@ -9,10 +9,10 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/11gSG_XwffatbvBOvEzK2TGaOUooKnef8?alt=media&key=AIzaSyB2bhbyxA8mdmQTWpbK1mSgNiY-YXVM4F4'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1JfUC0BCCv4CyeP7IugdjbYIZ_zMRURX8?alt=media&key=AIzaSyB2bhbyxA8mdmQTWpbK1mSgNiY-YXVM4F4'
 export_file_name = 'export.pkl'
 
-classes = [' Abstract Expressionism', ' Cubism', ' Fauvism', 'Realist']
+classes = [' Cubism', ' Fauvism', 'Realist']
 path = Path(__file__).parent
 
 app = Starlette()
