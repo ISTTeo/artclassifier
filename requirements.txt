@@ -3,7 +3,7 @@ https://files.pythonhosted.org/packages/fb/01/03fd7e503c16b3dc262483e5555ad40974
 https://files.pythonhosted.org/packages/7a/24/260f228857c652b58ee6f3ff7cacc9d987cea776a1ece6b76d794dcb7058/torch-1.0.1.post2-cp37-cp37m-manylinux1_x86_64.whl
 fastai==1.0.47
 starlette==0.11.4
-uvicorn==0.3.32
+uvicorn==0.11.7
 python-multipart==0.0.5
 aiofiles==0.4.0
 aiohttp==3.5.4
